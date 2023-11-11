@@ -2,7 +2,7 @@
 
 ## FAQ
 
-### How do I used DuckDB?
+### Building DuckDB lib for C++?
 
 Make sure you install it. I'm assuming Linux here. Then compile with a DuckDB link (last note).
 
@@ -32,14 +32,3 @@ cd build
 `g++ your_program.cpp -o your_program -lduckdb`
 
 **Note!** You might get a complaint about shared libraries not being available. Your problem is probably LD_LIBRARY_PATH. 
-
----
-
-### Question
-Answer
-
----
-
-### Question
-Answer
-
