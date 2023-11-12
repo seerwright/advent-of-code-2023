@@ -6,7 +6,7 @@
 * Each day's data and code will be in a day_xx directory
 
 
-## Notes to Self on using the template
+## Notes to Self
 
 For anyone checking out this repo that is not me, there will probably be more going on here than is needed for AoC. I'm using AoC to refresh my memory on C++. 
 
@@ -20,7 +20,12 @@ For anyone checking out this repo that is not me, there will probably be more go
   * dataframe -> lol
 
 * Control
-  * // Mostly the same stuff. Python has comprehensions and interesting iterators. 
+  * Mostly the same stuff. Python has comprehensions and interesting iterators.
+  * C++ is wordier, although a scattershot approach can be wordy in any language.
+
+* Useful packages
+  * NumPy -> Eigen, Armadillo, or IT++
+  * SciPy -> Dlib
 
 ---
 
