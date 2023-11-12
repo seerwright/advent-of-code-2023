@@ -1,8 +1,27 @@
-# Notes to Self on using the template
+# Advent of Code 2023
 
-## FAQ
+* Using C++ this year
+* Working through a few days in 2015's AoC - those are in _solution_template
+* Each day's data and code will be in a day_xx directory
 
-### Building DuckDB lib for C++?
+
+## Notes to Self on using the template
+
+For anyone checking out this repo that is not me, there will probably be more going on here than is needed for AoC. I'm using AoC to refresh my memory on C++. 
+
+---
+### Approaches from Python
+* Data Structures
+  * dict -> unordered_map or map
+  * list -> vector or stack
+  * heap (?) -> linked list (forward_list or priority_queue)
+  * set -> set
+* Control
+  * // Mostly the same stuff. Python has comprehensions and interesting iterators. 
+
+---
+
+### Building DuckDB lib for C++
 
 Make sure you install it. I'm assuming Linux here. Then compile with a DuckDB link (last note).
 
