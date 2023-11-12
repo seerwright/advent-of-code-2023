@@ -29,6 +29,9 @@ For anyone checking out this repo that is not me, there will probably be more go
 
 ---
 
+### Ignoring binaries
+Put an .app extension so it will _not_ be picked up by .gitignore.
+
 ### Building DuckDB lib for C++
 
 Make sure you install it. I'm assuming Linux here. Then compile with a DuckDB link (last note).
