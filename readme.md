@@ -1,5 +1,6 @@
 # Advent of Code 2023
 
+* [Advent of Code](https://adventofcode.com) coding challenge
 * Using C++ this year
 * Working through a few days in 2015's AoC - those are in _solution_template
 * Each day's data and code will be in a day_xx directory
