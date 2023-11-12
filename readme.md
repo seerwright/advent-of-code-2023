@@ -30,7 +30,7 @@ For anyone checking out this repo that is not me, there will probably be more go
 ---
 
 ### Ignoring binaries
-Put an .app extension so it will _not_ be picked up by .gitignore.
+Put an .app extension so compilations will be .gitignored.
 
 ---
 
