@@ -17,6 +17,8 @@ For anyone checking out this repo that is not me, there will probably be more go
   * list -> vector or stack
   * heap (?) -> linked list (forward_list or priority_queue)
   * set -> set
+  * dataframe -> lol
+
 * Control
   * // Mostly the same stuff. Python has comprehensions and interesting iterators. 
 
